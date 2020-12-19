@@ -13,22 +13,18 @@
     foaf:givenname "Ivan" ;
     foaf:homepage <https://www.instagram.com/ivankrstev7/> ;
     foaf:knows [ a foaf:Person ;
-            rdfs:seeAlso <https://raw.githubusercontent.com/risto-trajanov/Foaf/main/foaf.ttl?fbclid=IwAR36infJC0VFjYNhzyUKKbGrT_xe-H2p4RbjqdmIVuDacgcFTlxghBoSQaA> ;
-            foaf:mbox_sha1sum "c0954c8d80a373ef2f76badf1f49be0d02ac7856" ;
-            foaf:name "Risto Trajanov" ],
-        [ a foaf:Person ;
             rdfs:seeAlso <https://raw.githubusercontent.com/angela-kralevska/COVID19_MK_project/master/foaf.ttl?fbclid=IwAR0uuoV0NgZpLfvV2T7PI9dg353TwKLc3s2-k430lnO6g67tzzQueSZGB5k> ;
             foaf:mbox_sha1sum "38193af0b7960dd1e1cf0457bde8d10f67c26450" ;
             foaf:name "Angela Kralevska" ],
         [ a foaf:Person ;
             rdfs:seeAlso <https://raw.githubusercontent.com/StojanovVenko/WBS_FOAF_profile/main/foaf.ttl> ;
-            foaf:mbox_sha1sum "8d28758dd44f648d7569ea7a3654be3eb26d903b" ;
+            foaf:mbox_sha1sum "6481627bdd552ce22a3b87a6eb52ff05275749af" ;
             foaf:name "Venko Stojanov" ],
         [ a foaf:Person ;
-            rdfs:seeAlso <https://raw.githubusercontent.com/marijavelichkovska/Restaurant_reservations/master/foaf.ttl?fbclid=IwAR3qzb5qmmINPMkTHjaqL4_j1XAwlWLLEv6F40yEoGlkUjDxNxjF4BOIK-w> ;
-            foaf:mbox_sha1sum "38bcc6769d5ae8ff241f70f1546bbe5d3259bd04" ;
-            foaf:name "Marija Velichkovska" ] ;
-    foaf:mbox_sha1sum "b58677bced315da23effe2ac38b22fc7174e58aa" ;
+            rdfs:seeAlso <https://raw.githubusercontent.com/risto-trajanov/Foaf/main/foaf.ttl?fbclid=IwAR36infJC0VFjYNhzyUKKbGrT_xe-H2p4RbjqdmIVuDacgcFTlxghBoSQaA> ;
+            foaf:mbox_sha1sum "4f55d8be74dc35a0bcf86d2097a120717885149d" ;
+            foaf:name "Risto Trajanov" ] ;
+    foaf:mbox_sha1sum "1acc3acfb526903f3c452dd2526d0b4ed317a64d" ;
     foaf:name "Ivan Krstev" ;
     foaf:nick "Ivo" ;
     foaf:phone <tel:+38978508284> ;
